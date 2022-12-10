@@ -12,3 +12,6 @@ Connor Cowher's Repository for Level Design l 3D project.
  Level 3 (PitFall): 60 Second Timer, 10 pickups (3 Respawn zones if you miss a jump, one on each jump)
 
 Reupload on 11/15/22
+
+Refrences
+Teleport script - https://scholarslab.lib.virginia.edu/blog/teleporting-in-Unity3D/
