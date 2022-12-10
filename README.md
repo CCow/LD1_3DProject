@@ -2,7 +2,7 @@
  Repository for Level Design l 3D project.
  
  Controls:
- WASD ot arrow keys to move
+ WASD/arrow keys to move
  
  Level 1: 20 Second Timer
  Level 2: 40 Second Timer
