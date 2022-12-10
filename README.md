@@ -13,5 +13,5 @@ Connor Cowher's Repository for Level Design l 3D project.
 
 Reupload on 11/15/22
 
-Refrences
+Reference(s)
 Teleport script - https://scholarslab.lib.virginia.edu/blog/teleporting-in-Unity3D/
