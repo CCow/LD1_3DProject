@@ -1,5 +1,5 @@
 # LD1_3DProject
- Repository for Level Design l 3D project.
+Connor Cowher's Repository for Level Design l 3D project.
  
  Controls:
  WASD/arrow keys to move
