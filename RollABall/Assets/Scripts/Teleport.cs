@@ -8,9 +8,9 @@ public class Teleport : MonoBehaviour
     public GameObject player;
 
     // OnCollision is setting the player back to the spawn
-    void OnCollision(Collider other)
+    void OnTriggerEnter(Collider other)
     {
-      player.transform.position = spawnPoint.transform.position;
+        player.transform.position = spawnPoint.transform.position;
     }
 }
 
